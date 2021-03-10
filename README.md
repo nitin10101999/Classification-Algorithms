@@ -1,5 +1,4 @@
-#How To Run:
-
+# How To Run:
 >Bayes: 				python3 bayes.py
 
 >Naivebayes: 		python3 naivebayes.py
@@ -10,4 +9,4 @@
 
 
 
-##Note: Please check for the csv data file directory in the code
+## Note: Please check for the csv data file directory in the code
